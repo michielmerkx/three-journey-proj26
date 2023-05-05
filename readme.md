@@ -2,7 +2,7 @@
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Run the following commands:
 
 ``` bash
 # Install dependencies (only the first time)
@@ -14,4 +14,3 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-"# three-journey-proj26" 
